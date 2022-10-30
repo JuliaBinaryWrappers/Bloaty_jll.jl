@@ -1,216 +1,252 @@
 [[Bloaty]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e290a0cf8a91006e7d588ba6584ee316c6ac8868"
-libc = "musl"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "0e8674161faaa101f9195d371c394da0ba5ffa2046a5edaa10b27e4236f8c536"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
-[[Bloaty]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "f4d5fd820f53dc776153aab31f4d4f23891aa6d0"
-libc = "musl"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "913c7501ed3973a9594dea094f5e6a3048f95b46ef293c3a88dde18185af2896"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
-[[Bloaty]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e3c9ec32c8feb0e174397975ad5ae4a627252663"
-libc = "musl"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "b463136c90650a75c369e94600db84adf118d6672bb09e024321264893fd594a"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Bloaty]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "86f5e3c42728b60dff3b24e4bef6a46610aa5a02"
-libc = "musl"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "e9c9646bee98ff41100fd6b88d24c138350b3d9c8119af8e03bd0425d421d65c"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.i686-linux-musl-cxx11.tar.gz"
-[[Bloaty]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e733f3a6ffb816f1d9dbee61ccc817083a43fea6"
-libc = "musl"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "33789e16dd8aa913770d7fad2c5a0002839dca2a7726aadf33abf109ae7196e1"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
-[[Bloaty]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f12c42106946f8e7a32ad16da412fde7f212dae8"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "58f3e1cd6ac6fee538123a5ca35fbc17863d12fc39e3aaf2dcaa504d4d2dc034"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
-[[Bloaty]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e4366b2af610f3d73fd0e497f2127ab129e6950d"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "e4ef60d308ec1db7a9d8f967e5a3f71261b7f62c5ab4bad0388872f5523560e1"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
-[[Bloaty]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1798ddb740dabb4d71ae28539e39cfafa94ec74f"
+git-tree-sha1 = "6f803855f39f4fbdccae2b45cac83d3be3c1d96e"
 os = "macos"
 
     [[Bloaty.download]]
-    sha256 = "cb438f3665d914a347d940631f33797d2c6dace0cef713da3704ce67bfc8feb6"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-apple-darwin14-cxx11.tar.gz"
+    sha256 = "c32fb35962d8e3132080ea49cb7846af999b8a4a7157957d4fb2176ea02b80bf"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.aarch64-apple-darwin.tar.gz"
 [[Bloaty]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "feba2ee5f9d5aa7b90e7eb07c9c1b4bd5ae8a9cc"
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1b5abf118af7b4d8d355df2ca2d5dce3219cffb"
 libc = "glibc"
 os = "linux"
 
     [[Bloaty.download]]
-    sha256 = "e26f61adfbbf3d99508a61a29daf274ec1d34dbf1ecd3d90a6ba229bf1c1803d"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
-[[Bloaty]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ff2c657ea25c511b3f35854f2060e5930fa54579"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "879fcfff03d8648d3add7d77d4b60d4a3bd89a57e451e3e7fa094fb29156e01c"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[Bloaty]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a22926cd17ae819b3c21977e26b261335499081f"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "8a5baf15fde3ba486c8c55944445d274fcdb5fbbade6153b8ca38db1c6ee4f9a"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "5133ac9d8fda8e304cc7b125057a21b6bf44cdcb65c368f52ee3b6cf9ed1b18c"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[Bloaty]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e5f7b71e4a94b548feb5ecc18c1dd6dfa1b7002"
+git-tree-sha1 = "46c93dc4790205db375a826d585199b8afcef48c"
 libc = "glibc"
 os = "linux"
 
     [[Bloaty.download]]
-    sha256 = "23bd90591137a3ec3dba541010a3f1ebc0e47cdf5dbdecfae324cdae2a4e8717"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "17c5f9444f0d449905b4053efd0d5ad533743aa7a1183ea802532cd17b0bfd2f"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Bloaty]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6f93f9cbdd459e631606c79496c28ed3281ff734"
+git-tree-sha1 = "1a44ebcedaa2ba508ff901696d966de64b6ffafa"
 libc = "musl"
 os = "linux"
 
     [[Bloaty.download]]
-    sha256 = "5635c629bc24b49ed15514d3b0f61dcb874af9511a605ef39aa8cf0e3fbcdd50"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "4c87ef0c7cbeadc4f02cd337cf41770dac66d91aadbe9644276ad9e9bfb256ff"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Bloaty]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0a262dd88578f4b218c3676f72e58236c4748a7"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "b30ec04e2f9dbb5569578bba639038557c2f80279584cb07d9c4539c2ee9d40f"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Bloaty]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f66267de54e5a18c05ae88c95776e778178484f1"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "4bb15a899ed6b1ff09c306a1c5c219b07e413d285570ba1fb784597a287c6d7c"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Bloaty]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0e31e6fc0608c6cbcc133f17ea171eb67162145"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "3d66f82fc599591d07e472a55dff06f2fbd2ba323fe459fa8486f2c9a3f9fdd6"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Bloaty]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e7289a0c1bf73262739f7f5b87724862a512e87c"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "b051c62545a664189cb81e869b2768c32ea7766044cc2a18614887ca8f64f483"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Bloaty]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ab876261b9b3033bd0522d5144bb97f77df63b1"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "be1dc2642c462f2638ec92c5b1b2a2cb26d78f2f5b4d81d37a8f8a5bd2124c4a"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Bloaty]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a52779d891ca116cd4d4ec066ea19532d3bc3c0c"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "3d12af7fea79f691f73e05115ea8eefe80bddb68b970561371d59e0ea11406b4"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Bloaty]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d876b6b02ac3425e9350a07ba68b01b1d0a62c3a"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "3b080a69bb509d1bda6b27ff3e7d99077bb18ec88d9b2ea825a0dd7039205318"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Bloaty]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "06063af7cd1836eaf309b241cde067a713e6cf85"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "a7f7f93f3ee2c85ec533eee99c099700dc21abc2d65d3f0e1b0d4583e2f7a301"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Bloaty]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f7af2ead0c8582d53e19f798e1af963d5b61762d"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "226e04bf7c1df608edf496ded5f29f244cbd7452de2fa24f7862e2c3152f88bd"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Bloaty]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a457d96b2607085229bd8d0538d1d3cb66dd757"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "7568c46d8b57b5e908fcfcd89c90211eb1ba47b0bfdf6dac955841ff43df99dc"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[Bloaty]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb86c56975f90eba6d099372422cf19a7c18f966"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "eae625f569131630521451428e0b0669e2dc2a84bcf9388a6ef954e644088cd7"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[Bloaty]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b4911e89efa163c46022bea02e00af0ab99b2b6e"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "569d6815d54da399df70e32f8acc524746d7c3dd2ad7112c29323bace929e95e"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.i686-linux-musl-cxx03.tar.gz"
+[[Bloaty]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "587d37f19544e4d15b70971749b5d689d3622ee4"
+libc = "musl"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "2f0120d4f927546ffb1391d0067eb9a861b3ebc37219ecbbb781334f27ea5520"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.i686-linux-musl-cxx11.tar.gz"
+[[Bloaty]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e4f217afe3eee7888daf326e9c914147b0984ecb"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "a9338d4865dde880e23144d93ead973a77fbf345a0903096c7649f12c2757931"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Bloaty]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38d3e565a8abac12fdfe203331cdee1afc558933"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "b80193c9f21fcca14c903407815b35a3016e6b0e9421754c342875399ff99261"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Bloaty]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "da083dd64d096881f4cdae3ed350640e5ad288fc"
+git-tree-sha1 = "1785aff0378fff0bc1105db93b6381e2054ceb2a"
 os = "macos"
 
     [[Bloaty.download]]
-    sha256 = "f94276d8063f65618fdb551dee49c8ae3208242b49175d6a3238497cadc3f523"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-apple-darwin14-cxx03.tar.gz"
+    sha256 = "ca354f864775aaf03882289a86aa8c9939f53e0257bc2d5e39b935570d613696"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.x86_64-apple-darwin.tar.gz"
 [[Bloaty]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fed2b174d31527f701a9b52c99620d57e762eeae"
-os = "freebsd"
-
-    [[Bloaty.download]]
-    sha256 = "ed16271f7d961f1866dcb43ed4cf6827a473e7e6bacdebafe18bca2235b6a686"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
-[[Bloaty]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "22193a0413a1e2e56376d35a3e60aa5d1ed94554"
+git-tree-sha1 = "0f4cd76fa9c99db32656283e704249243b3ec6e7"
 libc = "glibc"
 os = "linux"
 
     [[Bloaty.download]]
-    sha256 = "f7e0c8c3afd7a3121de407d9c85bc098957eeee4b2d6d36249ac717f9215ffa4"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "a53fe42ff7884709e211cc051111145df5a77d0016567f7f4de1e60ed7c91f45"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Bloaty]]
-arch = "armv7l"
+arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f3391ddfa2d251420cc65cc7b72ea6f9745bd31"
+git-tree-sha1 = "446f93c652bbfc5d492a4d7702fd71966578e60d"
+libc = "glibc"
+os = "linux"
+
+    [[Bloaty.download]]
+    sha256 = "f7e49d701ee698aa9148bfa5895f09982fedf0bcc1e3280f2d99eb5af66e10e5"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Bloaty]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ff6794cfbc981f1fbbe3944c0aa2150388b2ce3b"
 libc = "musl"
 os = "linux"
 
     [[Bloaty.download]]
-    sha256 = "62459e4ef60b5078878f38d75dad47c519dff2b1b507cd85de22292694cc57b5"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[Bloaty]]
-arch = "armv7l"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "df223a4a661080503126545b482d68fbdcc663bb"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "5fe22ef4728842c9a5e1d91f07e12a8c08213a8c0e003f988c15bb8bfd6693ab"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Bloaty]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "196f8fd8cb25648d223a4240ba62227af4bf1647"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "a1d0589a0e13538ac4616ae13e715adee835623250d8f9cdc31792964c215e78"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
-[[Bloaty]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "da94e30efdfc392f21d9bcfb41681b1543982d3e"
-libc = "glibc"
-os = "linux"
-
-    [[Bloaty.download]]
-    sha256 = "1d8cc5f34b0f4dae0ec433864371d81c860f18993c13cf64490817d95dab53cd"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f1e51f180a1dfcaf95f4947351b12802ebcc67891d20527154d3512d76c14412"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Bloaty]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e433cdb31935c69dd8cb801235141c632599f0a8"
-os = "freebsd"
-
-    [[Bloaty.download]]
-    sha256 = "568581aeb9d28b824c32a893cd836904cab43fbd43508adc556070f4241f6ce5"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
-[[Bloaty]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8932b299efb8cd1b9c38512ea72c487d3c7c5f74"
+git-tree-sha1 = "3f74785882e59a51eb49bed93d926e12cace18c8"
 libc = "musl"
 os = "linux"
 
     [[Bloaty.download]]
-    sha256 = "8eac77810d0a49d686b5154418c9c06edd89e4dc1feceae595729049f5af90a5"
-    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.0.0+0/Bloaty.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "8e985f8e8f807a29283807b36eef9db6cd2eb85c0cc8779fb9e7417a86c36f15"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Bloaty]]
+arch = "x86_64"
+git-tree-sha1 = "2eefa68a8c67d45066cd31dede0107d8908badac"
+os = "freebsd"
+
+    [[Bloaty.download]]
+    sha256 = "dbc7647544602b4a0751045b2b8edeabb90a2bce77659c9e2aa6bd706b83ae55"
+    url = "https://github.com/JuliaBinaryWrappers/Bloaty_jll.jl/releases/download/Bloaty-v1.1.0+0/Bloaty.v1.1.0.x86_64-unknown-freebsd.tar.gz"
